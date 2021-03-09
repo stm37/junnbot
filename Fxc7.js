@@ -1236,7 +1236,7 @@ return new Promise(resolve => setTimeout(resolve, ms));
 			break 
 				case 'owner':
 				frhan.sendMessage(from, {displayname: "jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
-				reply('wa.me/628311800241')
+				reply('wa.me/62895605030379')
 				break
 				
 			case 'fitnah':
